@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "D:/projectDM/dm2019/generator_examples/cpp_generator/main.cpp" "D:/projectDM/dm2019/generator_examples/cpp_generator/cmake-build-debug/CMakeFiles/dm.dir/main.cpp.obj"
+  "/home/ilya/CLionProjects/generator_examples/cpp_generator/main.cpp" "/home/ilya/CLionProjects/generator_examples/cpp_generator/cmake-build-debug/CMakeFiles/dm.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

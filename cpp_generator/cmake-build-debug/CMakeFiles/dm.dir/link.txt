@@ -1,3 +1,1 @@
-"C:\Program Files\JetBrains\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\dm.dir/objects.a
-D:\Programs\mingw\mingw32\bin\ar.exe cr CMakeFiles\dm.dir/objects.a @CMakeFiles\dm.dir\objects1.rsp
-D:\Programs\mingw\mingw32\bin\g++.exe  -std=c++11 -g  -static-libgcc -static-libstdc++ -static -lpthread -Wl,--whole-archive CMakeFiles\dm.dir/objects.a -Wl,--no-whole-archive  -o dm.exe -Wl,--out-implib,libdm.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\dm.dir\linklibs.rsp
+/usr/bin/c++   -std=c++11 -g  -static-libgcc CMakeFiles/dm.dir/main.cpp.o  -o dm -static-libgcc 
