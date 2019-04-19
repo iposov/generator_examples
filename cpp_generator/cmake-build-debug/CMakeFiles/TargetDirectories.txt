@@ -1,3 +1,0 @@
-/home/ilya/CLionProjects/generator_examples/cpp_generator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/ilya/CLionProjects/generator_examples/cpp_generator/cmake-build-debug/CMakeFiles/dm.dir
-/home/ilya/CLionProjects/generator_examples/cpp_generator/cmake-build-debug/CMakeFiles/edit_cache.dir

@@ -1,1 +1,0 @@
-/usr/bin/c++   -std=c++11 -g  -static-libgcc CMakeFiles/dm.dir/main.cpp.o  -o dm -static-libgcc 
